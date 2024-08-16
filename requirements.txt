@@ -1,0 +1,5 @@
+spacy
+odoorpc
+openai-whisper
+sounddevice
+numpy
